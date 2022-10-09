@@ -1,4 +1,0 @@
-Name: Angel Ordonez Gonzalez
-Student number: 8833663
-the assignment number: Assignment 4
-GitHub repository link: https://github.com/angelconestoga/JavaJam.git
